@@ -1,0 +1,8 @@
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\bin\Release\Process_management.exe.config
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\bin\Release\Process_management.exe
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\bin\Release\Process_management.pdb
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\obj\Release\Process_management.FormMain.resources
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\obj\Release\Process_management.Properties.Resources.resources
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\obj\Release\Process_management.csproj.GenerateResource.Cache
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\obj\Release\Process_management.exe
+E:\Software Developer\Computer\Project\Visual C#\Process_management\Process_management\obj\Release\Process_management.pdb
